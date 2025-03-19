@@ -155,8 +155,7 @@ system.
 
 -   Ran into a problem
 
-    -   ![](images/media/image8.png){width="4.609375546806649in"
-        height="2.8956332020997375in"}
+    -   ![](images/media/image8.png)
 
 -   Shift + f10 to go into terminal
 
@@ -179,8 +178,7 @@ system.
 
     -   BypassCPUCheck → Set value to 1
 
-    -   ![](images/media/image6.png){width="4.911458880139983in"
-        height="3.8738265529308835in"}
+    -   ![](images/media/image6.png)
 
     -   Restart
 
@@ -254,8 +252,7 @@ system.
 -   Documentation:
     https://docs.securityonion.net/en/2.4/first-time-users.html
 
--   ![](images/media/image10.png){width="6.515625546806649in"
-    height="3.842548118985127in"}
+-   ![](images/media/image10.png)
 
 -   Specs above
 
@@ -267,21 +264,18 @@ system.
 
 -   Proceeding to installing security onion
 
--   ![](images/media/image1.png){width="3.4427088801399823in"
-    height="3.320547900262467in"}
+-   ![](images/media/image1.png)
 
 -   Chose standalone
 
--   ![](images/media/image7.png){width="4.137805118110236in"
-    height="4.078125546806649in"}
+-   ![](images/media/image7.png)
 
 -   Have to add another network adapter. One is for the management
     interface (for web access, administration, updates). The other is
     for the monitoring interface (to capture and analyze network
     traffic)
 
--   ![](images/media/image9.png){width="6.5in"
-    height="2.5416666666666665in"}
+-   ![](images/media/image9.png)
 
 -   Add new port group
 
@@ -289,13 +283,11 @@ system.
 
 -   Hostname: root399
 
--   ![](images/media/image4.png){width="5.432123797025372in"
-    height="4.309136045494313in"}
+-   ![](images/media/image4.png)
 
 -   Chose static
 
--   ![](images/media/image2.png){width="6.105795056867891in"
-    height="3.6302088801399823in"}
+-   ![](images/media/image2.png)
 
 -   searchdomain.local
 
@@ -310,15 +302,13 @@ system.
 
 03/05/2025
 
--   ![](images/media/image5.png){width="5.707479221347332in"
-    height="4.463542213473316in"}
+-   ![](images/media/image5.png)
 
 -   Gateway ipv4: 192.168.1.100
 
 -   Chose direct connection to the internet
 
--   ![](images/media/image3.png){width="6.5in"
-    height="4.361111111111111in"}
+-   ![](images/media/image3.png)
 
 -   Ok, it couldn\'t connect to the internet. To make it simpler we are
     just going to install the eval version of security onion instead of
@@ -387,5 +377,4 @@ system.
 
         -   Gateway: 192.168.3.1 /24
 
-![](images/media/image11.jpg){width="3.5256091426071743in"
-height="4.732706692913386in"}
+![](images/media/image11.jpg)
